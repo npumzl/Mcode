@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/struct3.png</file>
+  </qresource>
+</RCC>
